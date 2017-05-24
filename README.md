@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Nancy Limmer
 
-I like to:
+I like to: read!
 
-I'm learning:
+I'm learning: so much!  HTML, CSS, and Git
 
 ```
 
